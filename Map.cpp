@@ -18,6 +18,8 @@ int main(){
     ans[9]="efwcsa";
     ans.insert({4,"sfhksf"});
    
+
+   /*
     // map does not hai duplicate key
     ans[3]="abss";
 
@@ -33,6 +35,8 @@ int main(){
     {
         cout<<(*it).first<<" "<<(*it).second<<endl; 
     }
+
+        */
 
    print(ans);
 }
